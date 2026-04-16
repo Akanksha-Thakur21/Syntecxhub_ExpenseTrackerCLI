@@ -25,4 +25,6 @@ This project is built to practice Python fundamentals like file handling, functi
 
 ## Author
 
-Akanksha Thakur (SyntexHub)
+Akanksha Thakur
+<img width="792" height="681" alt="image" src="https://github.com/user-attachments/assets/df62f906-bdb3-4b0b-9e30-dce985bb6fec" />
+
