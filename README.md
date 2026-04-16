@@ -23,6 +23,6 @@ python expense_tracker.py
 ## Purpose
 This project is built to practice Python fundamentals like file handling, functions, and data visualization through a real-world application.
 
-## 👩‍💻 Author
+## Author
 
 Akanksha Thakur (SyntexHub)
